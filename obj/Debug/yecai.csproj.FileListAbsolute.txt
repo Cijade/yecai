@@ -1,0 +1,16 @@
+D:\workplace\yecai\bin\Debug\yecai.exe.config
+D:\workplace\yecai\bin\Debug\yecai.exe
+D:\workplace\yecai\bin\Debug\yecai.pdb
+D:\workplace\yecai\obj\Debug\yecai.csprojAssemblyReference.cache
+D:\workplace\yecai\obj\Debug\MainWindow.g.cs
+D:\workplace\yecai\obj\Debug\App.g.cs
+D:\workplace\yecai\obj\Debug\yecai_MarkupCompile.cache
+D:\workplace\yecai\obj\Debug\yecai_MarkupCompile.lref
+D:\workplace\yecai\obj\Debug\MainWindow.baml
+D:\workplace\yecai\obj\Debug\yecai.g.resources
+D:\workplace\yecai\obj\Debug\yecai.Properties.Resources.resources
+D:\workplace\yecai\obj\Debug\yecai.csproj.GenerateResource.cache
+D:\workplace\yecai\obj\Debug\yecai.csproj.CoreCompileInputs.cache
+D:\workplace\yecai\obj\Debug\yecai.csproj.Fody.CopyLocal.cache
+D:\workplace\yecai\obj\Debug\yecai.exe
+D:\workplace\yecai\obj\Debug\yecai.pdb
